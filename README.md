@@ -1,8 +1,8 @@
-# Exercícios em Javascript (para iniciantes em programação)
+# Exercícios em JavaScript
 
-exercicios-javascript — é para você que gostaria de aprender programação, não sabe nada ainda e quer iniciar direto na prática utilizando a linguagem JavaScript.
+Exercicios de JavaScript — É para você que gostaria de aprender programação, não sabe nada ainda e quer iniciar direto na prática utilizando a linguagem JavaScript.
 
-A motivação inicial foi numa tentativa de ensinar minha namorada a programar.
+A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o github.
 
 # Índice
 
