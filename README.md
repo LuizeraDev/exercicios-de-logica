@@ -142,26 +142,3 @@ Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qual
 
 ### Exercício 5
 Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
-
-# Respostas
-
-Por ora, não coloquei nenhuma resposta dos exercícios aqui. Mas ficaria muito grato de receber as respostas (enviadas por email mesmo, ou talvez abrindo uma "issue" no GitHub) e começar a organizar elas por aqui :)
-
-
-# Outras ferramentas para iniciar na programação
-
-glitch.com
- 
-rocketseat.com.br
-
-[vscode](https://code.visualstudio.com/)
-
-Chrome browser and DevTools
-
-# Referências
-
-https://github.com/progweb2sem2014/repodidatico/wiki/Exerc%C3%ADcios-de-Javascript-(05-09)
-
-https://github.com/gabrieldarezzo/helpjs-ravi
-
-http://professor.leonardomeirelles.com/wp/lista-de-exercicios-javascript/
