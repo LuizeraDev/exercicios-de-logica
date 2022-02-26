@@ -109,7 +109,7 @@ function limitaPosicao (posicao) {
 
 ### Exercício 3.1
 
-Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qualquer, digitado pelo usuário.
+Escreva um programa que o usuário digite o número da tabuada desejada e também até onde é o limite de repetições calcule e mostre a tabuada digitado pelo usuário.
 
 ## 4. Vetores (array)
 
