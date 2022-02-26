@@ -19,10 +19,10 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
          * [Exercício 2.1](#exercício-21)
          * [Exercício 2.2](#exercício-22)
          * [Exercício 2.3](#exercício-23)
-      * [3. Loop](#4-loop)
-         * [Exercício 4.1](#exercício-41)
-      * [4. Vetores (array)](#5-vetores-array)
-         * [Exercício 5](#exercício-5)
+      * [3. Loop](#3-loop)
+         * [Exercício 3.1](#exercício-31)
+      * [4. Vetores (array)](#4-vetores-array)
+         * [Exercício 4](#exercício-41)
 
 # Antes de qualquer coisa
 
@@ -113,5 +113,5 @@ Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qual
 
 ## 4. Vetores (array)
 
-### Exercício 5
+### Exercício 4.1
 Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
