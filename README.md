@@ -6,11 +6,9 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
 
 # Índice
 
-   * [Exercícios em Javascript (para iniciantes em programação)](#exercícios-em-javascript-para-iniciantes-em-programação)
    * [Índice](#índice)
    * [Antes de qualquer coisa](#antes-de-qualquer-coisa)
       * [Abrindo o DevTools](#abrindo-o-devtools)
-      * [Abrindo o <em>console</em> no codepen.io](#abrindo-o-console-no-codepenio)
    * [Exercícios](#exercícios)
       * [Variáveis e Funções](#variáveis-e-funções)
          * [Exercício 1.1](#exercício-11)
@@ -29,10 +27,6 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
          * [Exercício 4.1](#exercício-41)
       * [5. Vetores (array)](#5-vetores-array)
          * [Exercício 5](#exercício-5)
-   * [Respostas](#respostas)
-   * [Outras ferramentas para iniciar na programação](#outras-ferramentas-para-iniciar-na-programação)
-   * [Referências](#referências)
-
 
 # Antes de qualquer coisa
 
@@ -40,14 +34,7 @@ Antes de iniciar, precisamos de boas ferramentas para iniciar nossos trabalhos. 
 
  - DevTools, que está dentro do próprio navegador Chrome (apertando a tecla 'F12', na tela do navegador)
 
- - codepen.io, que é muito bacana também mas que precisa estar online e conectado a Internet pra usar.
-
-
 ## Abrindo o DevTools
-
-(preciso escrever algo sobre console)
-
-## Abrindo o *console* no codepen.io
 
 (preciso escrever algo sobre console)
 
@@ -121,16 +108,6 @@ function limitaPosicao (posicao) {
   // código da função
 }
 ```
-
-## 3. Lógica
-
-### Exercício 3.1
-
-Resolver toda [lista de exercícios Módulo 01](https://station.rocketseat.com.br/api/files/1536602858136.pdf) da [Rocketseat](https://rocketseat.com.br).
-
-### Exercício 3.2
-
-### Exercício 3.3
 
 ## 4. Loop
 
