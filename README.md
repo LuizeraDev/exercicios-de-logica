@@ -19,13 +19,9 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
          * [Exercício 2.1](#exercício-21)
          * [Exercício 2.2](#exercício-22)
          * [Exercício 2.3](#exercício-23)
-      * [3. Lógica](#3-lógica)
-         * [Exercício 3.1](#exercício-31)
-         * [Exercício 3.2](#exercício-32)
-         * [Exercício 3.3](#exercício-33)
-      * [4. Loop](#4-loop)
+      * [3. Loop](#4-loop)
          * [Exercício 4.1](#exercício-41)
-      * [5. Vetores (array)](#5-vetores-array)
+      * [4. Vetores (array)](#5-vetores-array)
          * [Exercício 5](#exercício-5)
 
 # Antes de qualquer coisa
@@ -109,13 +105,13 @@ function limitaPosicao (posicao) {
 }
 ```
 
-## 4. Loop
+## 3. Loop
 
-### Exercício 4.1
+### Exercício 3.1
 
 Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qualquer, digitado pelo usuário.
 
-## 5. Vetores (array)
+## 4. Vetores (array)
 
 ### Exercício 5
 Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
