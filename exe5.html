@@ -1,0 +1,13 @@
+<script>
+    let vida = 100;
+
+    function morreu(vida, dano) {
+        if (dano >= vida) {
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+
+    document.write(morreu(vida, 99));
+</script>

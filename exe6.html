@@ -1,0 +1,10 @@
+<script>
+    function limiteTela(posicao) {
+        if (posicao < 0) {
+            return 0;
+        } else if (posicao > 100) {
+            return 100;
+        }
+    }
+    document.write(limiteTela(-23));
+</script>
