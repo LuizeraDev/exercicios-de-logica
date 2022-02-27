@@ -21,6 +21,8 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
          * [Exercício 2.3](#exercício-23)
       * [3. Loop](#3-loop)
          * [Exercício 3.1](#exercício-31)
+         * [Exercício 3.2](#exercício-32)
+         * [Exercício 3.3](#exercício-33)
       * [4. Vetores (array)](#4-vetores-array)
          * [Exercício 4](#exercício-41)
 
