@@ -60,7 +60,7 @@ A média entre 'n' números, é a some dos 'n' números divididos por 'n'
 
 ### Exercício 1.3
 
-Faça um programa que leia do 5 números e some todos os números exibindo o resultado.
+Faça um programa que leia 5 números e some os 2 primeiros e multiplique os 3 últimos números informados apenas entre os 3 números e após isso faça uma soma geral.
 
 ## 2. Condicionais (_if_, _else_)
 
