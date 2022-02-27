@@ -10,7 +10,7 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
    * [Antes de qualquer coisa](#antes-de-qualquer-coisa)
       * [Abrindo o DevTools](#abrindo-o-devtools)
    * [Exercícios](#exercícios)
-      * [1. Variáveis e Funções](#variáveis-e-funções)
+      * [Variáveis e Funções](#variáveis-e-funções)
          * [Exercício 1.1](#exercício-11)
          * [Exercício 1.2](#exercício-12)
          * [Exercício 1.3](#exercício-13)
@@ -34,7 +34,7 @@ Antes de iniciar, precisamos de boas ferramentas para iniciar nossos trabalhos. 
 
 # Exercícios
 
-## 1. Variáveis e Funções
+## Variáveis e Funções
 
 ### Exercício 1.1
 
