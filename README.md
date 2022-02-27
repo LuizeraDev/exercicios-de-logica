@@ -94,7 +94,7 @@ function limitaPosicao (posicao) {
 
 ### Exercício 3.1
 
-Escreva um programa que o usuário digite o número da tabuada desejada e também até onde é o limite de repetições calcule e mostre a tabuada digitado pelo usuário.
+Escreva um programa que o usuário digite o número da tabuada desejada e também até onde é o limite de repetições calcule e mostre a tabuada digitada pelo usuário.
 
 ### Exercício 3.2
 
