@@ -52,7 +52,7 @@ Dica - lendo números:
 // abre uma janelinha com um "prompt" que lê um número digitado pelo
 // usuário e atribui o resultado a variável "v1"
 var v1;
-v1 = Number (prompt ());
+v1 = Number(prompt ());
 ```
 
 ### Exercício 1.3
@@ -103,6 +103,14 @@ function limitaPosicao (posicao) {
 ### Exercício 3.1
 
 Escreva um programa que o usuário digite o número da tabuada desejada e também até onde é o limite de repetições calcule e mostre a tabuada digitado pelo usuário.
+
+### Exercício 3.2
+
+Escreva um programa que realize uma P.A (Progressão Aritmética) de dois em dois começando do número 1 até o número 37.
+
+### Exercício 3.3
+
+Escreva um progrma que realize uma P.G (Progressão Geométrica) multiplicando sempre por 3 começando do número 1 até o número 729.
 
 ## 4. Vetores (array)
 
