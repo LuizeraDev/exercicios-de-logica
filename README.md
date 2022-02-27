@@ -102,7 +102,7 @@ Escreva um programa que realize uma P.A (Progressão Aritmética) de dois em doi
 
 ### Exercício 3.3
 
-Escreva um progrma que realize uma P.G (Progressão Geométrica) multiplicando sempre por 3 começando do número 1 até o número 729.
+Escreva um programa que realize uma P.G (Progressão Geométrica) multiplicando sempre por 3 começando do número 1 até o número 729.
 
 ## 4. Vetores (array)
 
