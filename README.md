@@ -14,7 +14,6 @@ A motivação inicial foi numa tentativa de ensinar meus amigos a utilizarem o g
          * [Exercício 1.1](#exercício-11)
          * [Exercício 1.2](#exercício-12)
          * [Exercício 1.3](#exercício-13)
-         * [Exercício 1.4](#exercício-14)
       * [2. Condicionais (<em>if</em>, <em>else</em>)](#2-condicionais-if-else)
          * [Exercício 2.1](#exercício-21)
          * [Exercício 2.2](#exercício-22)
@@ -38,17 +37,6 @@ Antes de iniciar, precisamos de boas ferramentas para iniciar nossos trabalhos. 
 
 ### Exercício 1.1
 
-Faça um programa que **exiba** 3 números na tela.
-
-Dica - exibindo (ou "imprimindo") números na tela:
-
-```javascript
-var a = 23;
-console.log(a);
-```
-
-### Exercício 1.2
-
 Faça um programa que **leia** 3 números e **exiba**-os na tela.
 
 Dica - lendo números:
@@ -59,7 +47,7 @@ var v1;
 v1 = Number(prompt ());
 ```
 
-### Exercício 1.3
+### Exercício 1.2
 
 Faça um programa que **leia** 3 números, **some**-os e **exiba** a média entre eles.
 
@@ -70,7 +58,7 @@ A média entre três números, é a some dos três números divididos por 3
 A média entre 'n' números, é a some dos 'n' números divididos por 'n'
 ```
 
-### Exercício 1.4
+### Exercício 1.3
 
 Faça um programa que leia do 5 números e some todos os números exibindo o resultado.
 
