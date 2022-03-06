@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcular idade</title>
+</head>
+<body>
+    <h1>Idade</h1>
+
+    <p>
+        Dia de aniversário 
+        <input type="number" id="birth_day" required>    
+    </p>
+    <p>
+        Mês de aniversário 
+        <input type="number" id="birth_month" required>
+    </p>
+    <p>
+        Ano de aniversário 
+        <input type="number" id="birth_year" required>
+    </p>
+    <p>
+       Dia atual 
+       <input type="number" id="current_day" required>
+    </p>
+    <p>
+        Mês atual 
+        <input type="number" id="current_month" required>
+    </p>
+    <p>
+        Ano atual 
+        <input type="number" id="current_year" required>
+    </p>
+
+    <input type="submit" onclick="calcular()">
+
+    <p id="result"></p>
+</body>
+</html>
+<script>
+    /* 
+        14. Desenvolva um algoritmo que dada a data de nascimento de uma 
+        pessoa e a data atual, informe a idade dessa pessoa em anos completos
+    */
+
+    function calcular() {
+        let birth_day = document.getElementById('birth_day').value;
+        let birth_month = document.getElementById('birth_month').value;
+        let birth_year = document.getElementById('birth_year').value; 
+
+        let current_day = document.getElementById('current_day').value;
+        let current_month = document.getElementById('current_month').value;
+        let current_year = document.getElementById('current_year').value; 
+
+        let result = document.getElementById('result');
+
+        let age = current_year - birth_year; 
+
+        if (birth_year <= current_year) {
+            if (birth_month <= current_month) {
+                if (birth_day <= current_day) {
+                    age -= 1;
+                }
+            }
+        }
+        
+        result.innerHTML = "Voce tem: " + age + " anos de idade.";
+    }
+</script>
