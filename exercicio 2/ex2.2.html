@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Para um jogo, precisamos saber se um personagem 
+        morreu ou não depois de sofrer um ataque. Faça uma 
+        função que receba 2 parâmetros, 'dano' e 'saude'. A 
+        função deve retornar '1' se o dano for matar o personagem
+         (ou seja, deixar sua saúde menor ou igual a zero) e '0' caso contrário.
+
+Dica - utilize a seguinte função:
+```javascript
+function personagemMorreu (dano, saude) {
+  //
+}
+``` -->
+
+    <script>
+
+        // declaração de variaveis
+
+        function personagemMorreu(dano, saude){
+            if(dano > saude){
+                alert ("Personagem Morreu")
+            } else{
+                alert ("personagem permanece vivo")
+            }
+        }
+        
+        personagemMorreu(200, 1100)
+
+        // function personagemMorreu (dano, saude){
+        //     if(dano -= saude){
+        //         return "Personagem morreu"
+        //     }
+        // }
+    </script>
+</body>
+</html>

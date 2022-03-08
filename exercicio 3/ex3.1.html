@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Escreva um programa que o usuário digite o número da tabuada 
+     e também até onde é o limite de repetições calcule e mostre a tabuada
+     digitada pelo usuário. -->
+     <script>
+        var tabN1 = prompt("Informe qual tabuada voce gostaria de saber: ")
+        var tabN2 = prompt("Informe a quatidade de multiplicações que serão feitas: ")
+        for(contador = 0; contador <= tabN2; contador++){
+           document.write(tabN1 + "x" + contador + "=" + tabN1 * contador + "<br>")
+        }
+     </script>
+</body>
+</html>
